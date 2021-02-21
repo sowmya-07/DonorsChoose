@@ -4,7 +4,8 @@ The name of the organization is Donor’s Choose. DonorsChoose.org is an online 
 1.essays.csv: contains project text posted by teachers.
 2.projects.csv: contains information about each project
 3.outcomes.csv: contains information about the outcomes of projects
- Any project posted before 2014-01-01 is in the training set (along with its funding outcomes). Any project posted after that is in the test set.
+
+Any project posted before 2014-01-01 is in the training set (along with its funding outcomes). Any project posted after that is in the test set.
 
 Following are the submission requirements for this case study:
 1.Data Audit report and code used to create the data audit report. You can find a sample data audit report in the data folder; the name of the file is sample_data_audit.csv. You will need to submit data audit report for each data set along with the code.
