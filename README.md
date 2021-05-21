@@ -14,4 +14,3 @@ Following are the submission requirements for this case study:
 4.AUC reported on five-fold CV done by you, using the final model selected in 3. The AUC should be reported in the following format in a csv file: 
 Fold, AUC 1,Value 2, Value 3,Value 4,Value 5,Value
 
-Still working on this project
