@@ -7,10 +7,10 @@ DonorsChoose.org is an online charity that makes it easy to help students in nee
 
 Any project posted before 2014-01-01 is in the training set (along with its funding outcomes). Any project posted after that is in the test set.
 
-Following are the submission requirements for this case study:
-1.Data Audit report and code used to create the data audit report. You can find a sample data audit report in the data folder; the name of the file is sample_data_audit.csv. You will need to submit data audit report for each data set along with the code.
-2.Feature engineering code in a jupyter notebook format. Make sure the code is properly commented out.
-3.You will also need to submit the code for the final model selected by you, the model should be built to predict if a project is exciting.
-4.AUC reported on five-fold CV done by you, using the final model selected in 3. The AUC should be reported in the following format in a csv file: 
+Following are the requirements for this case study:
+1.Data Audit report and code used to create the data audit report. 
+2.Feature engineering on text 
+3.the model should be built to predict if a project is exciting.
+4.AUC reported on five-fold CV and The AUC should be reported in the following format in a csv file: 
 Fold, AUC 1,Value 2, Value 3,Value 4,Value 5,Value
 
