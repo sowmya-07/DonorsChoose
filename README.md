@@ -7,10 +7,3 @@ DonorsChoose.org is an online charity that makes it easy to help students in nee
 
 Any project posted before 2014-01-01 is in the training set (along with its funding outcomes). Any project posted after that is in the test set.
 
-Following are the requirements for this case study:
-1.Data Audit report and code used to create the data audit report. 
-2.Feature engineering on text 
-3.the model should be built to predict if a project is exciting.
-4.AUC reported on five-fold CV and The AUC should be reported in the following format in a csv file: 
-Fold, AUC 1,Value 2, Value 3,Value 4,Value 5,Value
-
